@@ -1,0 +1,1337 @@
+# Copyright (C) 2024 Codemanas
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: CM News 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cm-news\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-14T05:13:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: cm-news\n"
+
+#. Theme Name of the theme
+#: C:\laragon\www\cm-theme\wp-content\themes\cm-news\style.css
+msgid "CM News"
+msgstr ""
+
+#. Theme URI of the theme
+#: C:\laragon\www\cm-theme\wp-content\themes\cm-news\style.css
+msgid "https://cmblocks.com/themes/cm-news/"
+msgstr ""
+
+#. Description of the theme
+#: C:\laragon\www\cm-theme\wp-content\themes\cm-news\style.css
+msgid "CM News is a versatile and contemporary WordPress block theme tailored for news websites, featuring a clean, minimalist layout that highlights your content. With customizable blocks and intuitive drag-and-drop functionality, it allows for easy personalization and dynamic content arrangements. The theme is fully responsive, ensuring an optimal viewing experience on all devices, and includes built-in support for multimedia, social media integration, and SEO optimization to enhance your site's reach and engagement."
+msgstr ""
+
+#. Author of the theme
+#: C:\laragon\www\cm-theme\wp-content\themes\cm-news\style.css
+msgid "Codemanas"
+msgstr ""
+
+#. Author URI of the theme
+#: C:\laragon\www\cm-theme\wp-content\themes\cm-news\style.css
+msgid "https://cmblocks.com"
+msgstr ""
+
+#: includes/AssetsHandler.php:24
+#: includes/Bootstrap.php:39
+#: includes/Bootstrap.php:43
+msgid "CM Blocks"
+msgstr ""
+
+#: includes/AssetsHandler.php:30
+msgid "Search With Typesemse"
+msgstr ""
+
+#: includes/Blocks.php:26
+msgid "Large Categories"
+msgstr ""
+
+#: includes/Blocks.php:34
+msgid "Section Title"
+msgstr ""
+
+#: includes/Blocks.php:43
+msgid "Date With Icon"
+msgstr ""
+
+#: includes/Blocks.php:63
+msgid "Author With Icon"
+msgstr ""
+
+#: includes/Blocks.php:82
+msgid "White"
+msgstr ""
+
+#: includes/Blocks.php:90
+msgid "Quote With Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:29
+msgid "Live Demo"
+msgstr ""
+
+#: includes/Bootstrap.php:30
+msgid "Documentation"
+msgstr ""
+
+#: includes/Bootstrap.php:31
+msgid "https://docs.cmblocks.com/cm-news/"
+msgstr ""
+
+#: includes/Bootstrap.php:32
+msgid "CM Blocks - WordPress Blocks Unleashed"
+msgstr ""
+
+#: includes/Bootstrap.php:33
+msgid "Easily start building your websites with CM Blocks"
+msgstr ""
+
+#: includes/Bootstrap.php:34
+msgid "CM Blocks is a custom WordPress blocks plugin designed to streamline the process of building websites using the WordPress platform. WordPress blocks, introduced with the Gutenberg editor, are content elements that allow users to add various types of content to their posts or pages in a visually appealing and structured manner."
+msgstr ""
+
+#: includes/Bootstrap.php:35
+msgid "Get CM Blocks Suite"
+msgstr ""
+
+#: includes/Bootstrap.php:36
+msgid "CM BLocks Collection images"
+msgstr ""
+
+#: includes/Bootstrap.php:37
+msgid "Get Started"
+msgstr ""
+
+#: includes/Bootstrap.php:38
+msgid "Change Log"
+msgstr ""
+
+#: includes/Bootstrap.php:40
+msgid "Quick Settings"
+msgstr ""
+
+#: includes/Bootstrap.php:41
+#: includes/Setup.php:52
+msgid "Header"
+msgstr ""
+
+#: includes/Bootstrap.php:42
+msgid "To enable sticky header please install"
+msgstr ""
+
+#: includes/Bootstrap.php:44
+msgid "Configure the sticky header feature on or off as needed"
+msgstr ""
+
+#: includes/Bootstrap.php:45
+#: patterns/podcasts-about.php:36
+#: patterns/podcasts-banner.php:30
+msgid "Learn More"
+msgstr ""
+
+#: includes/Bootstrap.php:46
+#: includes/Setup.php:56
+msgid "Footer"
+msgstr ""
+
+#: includes/Bootstrap.php:47
+msgid "Styles Variation"
+msgstr ""
+
+#: includes/Bootstrap.php:48
+msgid "Navigation"
+msgstr ""
+
+#: includes/Bootstrap.php:49
+msgid "All Templates"
+msgstr ""
+
+#: includes/Bootstrap.php:50
+msgid "Page Templates"
+msgstr ""
+
+#: includes/Bootstrap.php:51
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/Bootstrap.php:52
+msgid "Free"
+msgstr ""
+
+#: includes/Bootstrap.php:53
+msgid "Video Conferencing with Zoom"
+msgstr ""
+
+#: includes/Bootstrap.php:54
+msgid "Video Conferencing with zoom free version"
+msgstr ""
+
+#: includes/Bootstrap.php:55
+msgid "Search With Typesense"
+msgstr ""
+
+#: includes/Bootstrap.php:56
+msgid "Instant Search With Typesense free version"
+msgstr ""
+
+#: includes/Bootstrap.php:57
+msgid "Simple Popup Block"
+msgstr ""
+
+#: includes/Bootstrap.php:58
+msgid "A simple and easy to use popup block plugin for block editor"
+msgstr ""
+
+#: includes/Bootstrap.php:59
+msgid "Activated"
+msgstr ""
+
+#: includes/Bootstrap.php:60
+#: includes/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: includes/Bootstrap.php:61
+msgid "Help and Support"
+msgstr ""
+
+#: includes/Bootstrap.php:62
+msgid "No Problem!! Please create a support ticket. Our dedicated support team will help you to solve your problem"
+msgstr ""
+
+#: includes/Bootstrap.php:63
+msgid "Support"
+msgstr ""
+
+#: includes/Bootstrap.php:64
+#: includes/Bootstrap.php:67
+msgid "From Edit screen of page/post, you can easily import Beautiful Patterns."
+msgstr ""
+
+#: includes/Bootstrap.php:65
+msgid "Review"
+msgstr ""
+
+#: includes/Bootstrap.php:66
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/Bootstrap.php:68
+msgid "\" Craft Your Distinctive Web Presence with Our Design Library \""
+msgstr ""
+
+#: includes/Bootstrap.php:69
+msgid "Explore our extensive collection of expertly crafted patterns and page designs. Choose from a variety of options to create your site exactly as you envision it."
+msgstr ""
+
+#: includes/Bootstrap.php:70
+msgid "With just a few clicks, easily create beautiful sections anywhere on your site."
+msgstr ""
+
+#: includes/Bootstrap.php:71
+msgid "Our Blocks"
+msgstr ""
+
+#: includes/Bootstrap.php:72
+msgid "Slider Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:73
+msgid "Slider"
+msgstr ""
+
+#: includes/Bootstrap.php:74
+msgid "Create Smooth and interactive user interface."
+msgstr ""
+
+#: includes/Bootstrap.php:75
+msgid "Docs"
+msgstr ""
+
+#: includes/Bootstrap.php:76
+msgid "Accordion Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:77
+msgid "Accordion"
+msgstr ""
+
+#: includes/Bootstrap.php:78
+msgid "Easy Accordion which enhance user experience and make site organized."
+msgstr ""
+
+#: includes/Bootstrap.php:79
+msgid "Masonry Gallery Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:80
+msgid "Masonry Gallery"
+msgstr ""
+
+#: includes/Bootstrap.php:81
+msgid "Simple grid based gallery inside WordPress content editor."
+msgstr ""
+
+#: includes/Bootstrap.php:82
+msgid "Progress Bar Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:83
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/Bootstrap.php:84
+msgid "Beautiful slider bar without writing long lines of code on WordPress."
+msgstr ""
+
+#: includes/Bootstrap.php:85
+msgid "Countdown Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:86
+msgid "Countdown"
+msgstr ""
+
+#: includes/Bootstrap.php:87
+msgid "Customizable WordPress blocks that allows user to add timer inside."
+msgstr ""
+
+#: includes/Bootstrap.php:88
+msgid "Counter Icon"
+msgstr ""
+
+#: includes/Bootstrap.php:89
+msgid "Counter"
+msgstr ""
+
+#: includes/Bootstrap.php:90
+msgid "Create beautiful Counters without writing a bunch of code."
+msgstr ""
+
+#: includes/Bootstrap.php:91
+msgid "Elevate your design with CM Blocks Suite."
+msgstr ""
+
+#: includes/Bootstrap.php:92
+msgid "Unlock Premium Designs and access a collection of unique, high-quality templates that will make your site stand out. With dedicated priority support, you will have everything you need to create exceptional websites effortlessly. Elevate your design capabilities today with our Premium Designs!"
+msgstr ""
+
+#: includes/Bootstrap.php:93
+msgid "Get Started Now"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:386
+#: includes/class-tgm-plugin-activation.php:827
+#: includes/class-tgm-plugin-activation.php:2533
+#: includes/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:387
+#: includes/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:388
+#: includes/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:934
+#: includes/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1121
+#: includes/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3509
+#: includes/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3509
+#: includes/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/Setup.php:40
+msgid "Podcasts"
+msgstr ""
+
+#: includes/Setup.php:44
+msgid "Full Page"
+msgstr ""
+
+#: includes/Setup.php:48
+msgid "Query"
+msgstr ""
+
+#: includes/Setup.php:60
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:25
+msgid "OOPS !"
+msgstr ""
+
+#: patterns/404.php:29
+msgid "404 - Page not Found"
+msgstr ""
+
+#: patterns/404.php:33
+msgid "The Page you have been searching is temporarily unavailable"
+msgstr ""
+
+#: patterns/404.php:38
+msgid "Go Back"
+msgstr ""
+
+#: patterns/featured-news.php
+msgctxt "Pattern title"
+msgid "Featured News"
+msgstr ""
+
+#: patterns/featured-news.php:17
+msgid "Featured News"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Your source for the lifestyle news. This demo is crafted specifically to exhibit the use of the theme as a lifestyle site. Visit our main page for more."
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "We're social, connect with us:"
+msgstr ""
+
+#: patterns/footer.php:46
+#: patterns/sidebar.php:29
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:82
+msgid "Categories"
+msgstr ""
+
+#: patterns/footer.php:99
+msgid "© 2024 CM News. All Right Reserved. Codemanas | Powered By WordPress"
+msgstr ""
+
+#: patterns/full-page-blogs.php
+msgctxt "Pattern title"
+msgid "Full Page Blogs"
+msgstr ""
+
+#: patterns/full-page-blogs.php:18
+msgid "Blogs"
+msgstr ""
+
+#: patterns/full-page-home.php
+msgctxt "Pattern title"
+msgid "Full Page Home"
+msgstr ""
+
+#: patterns/full-page-podcasts.php
+msgctxt "Pattern title"
+msgid "Full Page Podcasts"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:21
+msgid "+977-9876543210"
+msgstr ""
+
+#: patterns/header.php:31
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/hero-query.php
+msgctxt "Pattern title"
+msgid "Hero Query"
+msgstr ""
+
+#: patterns/horizontal-posts-from-category.php
+msgctxt "Pattern title"
+msgid "Horizontal Posts From Category"
+msgstr ""
+
+#: patterns/horizontal-posts-from-category.php:18
+msgid "Sports"
+msgstr ""
+
+#: patterns/horizontal-posts-from-category.php:42
+msgid "Politics"
+msgstr ""
+
+#: patterns/horizontal-posts-from-category.php:66
+msgid "Technology"
+msgstr ""
+
+#: patterns/latest-stories-with-sidebar.php
+msgctxt "Pattern title"
+msgid "Latest Stories With Sidebar"
+msgstr ""
+
+#: patterns/latest-stories-with-sidebar.php:17
+msgid "Latest Stories"
+msgstr ""
+
+#: patterns/podcasts-about.php
+msgctxt "Pattern title"
+msgid "Podcasts About"
+msgstr ""
+
+#: patterns/podcasts-about.php:27
+#: patterns/podcasts-banner.php:21
+msgid "Best Podcasts for Your Mind"
+msgstr ""
+
+#: patterns/podcasts-about.php:31
+#: patterns/podcasts-banner.php:25
+msgid "Livecast is compatible with the most popular music platforms in the world, including Spotify, SoundClood, Buzzsrpout, Deezer and others"
+msgstr ""
+
+#: patterns/podcasts-banner.php
+msgctxt "Pattern title"
+msgid "Podcasts Banner"
+msgstr ""
+
+#: patterns/podcasts-banner.php:34
+msgid "Listen Now"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php
+msgctxt "Pattern title"
+msgid "Podcasts Limited Series"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:21
+#: patterns/podcasts.php:20
+msgid "Our Weekly Podcasts"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:25
+#: patterns/podcasts-show-casts.php:24
+#: patterns/podcasts.php:24
+#: patterns/sidebar.php:55
+msgid "In the dynamic world of WordPress, we emerge as a beacon of innovation and excellence."
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:41
+#: patterns/podcasts-limited-series.php:105
+#: patterns/podcasts-limited-series.php:139
+#: patterns/podcasts-limited-series.php:155
+#: patterns/podcasts-show-casts.php:40
+#: patterns/podcasts-show-casts.php:104
+#: patterns/podcasts-show-casts.php:138
+#: patterns/podcasts-show-casts.php:154
+#: patterns/podcasts.php:40
+#: patterns/podcasts.php:104
+#: patterns/podcasts.php:138
+#: patterns/podcasts.php:154
+msgid "Episode1: Rise of Annora"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:45
+#: patterns/podcasts-limited-series.php:61
+#: patterns/podcasts-limited-series.php:77
+#: patterns/podcasts-limited-series.php:93
+#: patterns/podcasts-limited-series.php:109
+#: patterns/podcasts-limited-series.php:125
+#: patterns/podcasts-limited-series.php:143
+#: patterns/podcasts-limited-series.php:159
+#: patterns/podcasts-limited-series.php:175
+#: patterns/podcasts-limited-series.php:191
+#: patterns/podcasts-limited-series.php:207
+#: patterns/podcasts-limited-series.php:223
+#: patterns/podcasts-show-casts.php:44
+#: patterns/podcasts-show-casts.php:60
+#: patterns/podcasts-show-casts.php:76
+#: patterns/podcasts-show-casts.php:92
+#: patterns/podcasts-show-casts.php:108
+#: patterns/podcasts-show-casts.php:124
+#: patterns/podcasts-show-casts.php:142
+#: patterns/podcasts-show-casts.php:158
+#: patterns/podcasts-show-casts.php:174
+#: patterns/podcasts-show-casts.php:190
+#: patterns/podcasts-show-casts.php:206
+#: patterns/podcasts-show-casts.php:222
+#: patterns/podcasts.php:44
+#: patterns/podcasts.php:60
+#: patterns/podcasts.php:76
+#: patterns/podcasts.php:92
+#: patterns/podcasts.php:108
+#: patterns/podcasts.php:124
+#: patterns/podcasts.php:142
+#: patterns/podcasts.php:158
+#: patterns/podcasts.php:174
+#: patterns/podcasts.php:190
+#: patterns/podcasts.php:206
+#: patterns/podcasts.php:222
+msgid "Jane Kay"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:57
+#: patterns/podcasts-limited-series.php:171
+#: patterns/podcasts-show-casts.php:56
+#: patterns/podcasts-show-casts.php:170
+#: patterns/podcasts.php:56
+#: patterns/podcasts.php:170
+msgid "See America"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:73
+#: patterns/podcasts-limited-series.php:187
+#: patterns/podcasts-limited-series.php:203
+#: patterns/podcasts-show-casts.php:72
+#: patterns/podcasts-show-casts.php:186
+#: patterns/podcasts-show-casts.php:202
+#: patterns/podcasts.php:72
+#: patterns/podcasts.php:186
+#: patterns/podcasts.php:202
+msgid "Episode1: The white ghost"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:89
+#: patterns/podcasts-limited-series.php:219
+#: patterns/podcasts-show-casts.php:88
+#: patterns/podcasts-show-casts.php:218
+#: patterns/podcasts.php:88
+#: patterns/podcasts.php:218
+msgid "Chasing Life"
+msgstr ""
+
+#: patterns/podcasts-limited-series.php:121
+#: patterns/podcasts-show-casts.php:120
+#: patterns/podcasts.php:120
+msgid "The hanging Bridge"
+msgstr ""
+
+#: patterns/podcasts-show-casts.php
+msgctxt "Pattern title"
+msgid "Podcasts Show Casts"
+msgstr ""
+
+#: patterns/podcasts-show-casts.php:20
+msgid "Show Casts"
+msgstr ""
+
+#: patterns/podcasts.php
+msgctxt "Pattern title"
+msgid "Podcasts"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "Search Bar"
+msgstr ""
+
+#: patterns/sidebar.php:51
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/sidebar.php:60
+msgid "VISIT US"
+msgstr ""
+
+#: search-with-typesense/autocomplete/no-results.php:2
+msgid "No Results Found"
+msgstr ""
+
+#: search-with-typesense/instant-search-results.php:62
+msgid "Read More..."
+msgstr ""
+
+#: search-with-typesense/instant-search/partials/index-switcher.php:55
+msgid "Most Posts"
+msgstr ""
+
+#: search-with-typesense/instant-search/partials/index-switcher.php:59
+msgid "Least Posts"
+msgstr ""
+
+#: search-with-typesense/instant-search/partials/index-switcher.php:66
+msgid "Recent"
+msgstr ""
+
+#: search-with-typesense/instant-search/partials/index-switcher.php:70
+msgid "Oldest"
+msgstr ""
+
+#: styles/Blackwhite.json
+msgctxt "Style variation name"
+msgid "BlackWhite"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "radial secondary to accent"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary / Two"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Text "
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background/ Two"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Text"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Text /Two"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Text"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: styles/Blackwhite.json
+#: styles/Bluefine.json
+#: styles/Ceruleanblue.json
+#: styles/Knightdark.json
+#: styles/Myrtlegreen.json
+#: styles/Purplecage.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/Bluefine.json
+msgctxt "Style variation name"
+msgid "Blue Fine"
+msgstr ""
+
+#: styles/Ceruleanblue.json
+msgctxt "Style variation name"
+msgid "Cerulean Blue"
+msgstr ""
+
+#: styles/Knightdark.json
+msgctxt "Style variation name"
+msgid "Knight Dark"
+msgstr ""
+
+#: styles/Myrtlegreen.json
+msgctxt "Style variation name"
+msgid "Myrtle Green"
+msgstr ""
+
+#: styles/Purplecage.json
+msgctxt "Style variation name"
+msgid "Purple Cage"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Splash/Blank Canvas"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Podcast"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Sans-serif"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Serif"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "ES"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "S"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "SM"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "M"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "ML"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "L"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "banner-large"
+msgstr ""

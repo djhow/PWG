@@ -1,0 +1,38 @@
+/*
+Theme Name: CM News Magazine
+Theme Name: CM News
+Theme URI: https://cmblocks.com/themes/cm-news/
+Author: Codemanas
+Author URI: https://cmblocks.com
+Description: CM News Magazine is a versatile and contemporary WordPress block child theme tailored for news websites, featuring a clean, minimalist layout that highlights your content. With customizable blocks and intuitive drag-and-drop functionality, it allows for easy personalization and dynamic content arrangements. The theme is fully responsive, ensuring an optimal viewing experience on all devices, and includes built-in support for multimedia, social media integration, and SEO optimization to enhance your site's reach and engagement.
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 5.7
+Version: 1.0.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: cm-news
+Text Domain: cm-news-magazine
+Tags: grid-layout, photography, blog, news, block-patterns, custom-logo, theme-options, wide-blocks, full-site-editing, full-width-template, featured-images, custom-menu, editor-style, custom-header, block-styles, three-columns, featured-image-header, style-variations
+*/
+
+.cm-news-overlay-large-cards {
+  position: relative;
+}
+
+.cm-news-overlay-cards-content {
+  position: absolute;
+  bottom: 0;
+  z-index: 9;
+}
+
+.cm-news-pro-overlay-sections:hover
+  .cm-news-pro-overlay-section-thumbnails__wrapper
+  .wp-block-cover__image-background {
+  transform: scale(1.1);
+}
+
+.cm-news-pro-overlay-section-thumbnails__wrapper
+  .wp-block-cover__image-background {
+  transition: 0.3s all ease-in-out;
+}

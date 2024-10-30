@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "title": "Cerulean Blue",
+  "settings": {
+    "color": {
+      "gradients": [
+        {
+          "slug": "gradient-1",
+          "gradient": "radial-gradient(rgb(0, 69, 138) 0%,rgb(0, 51, 102) 47%)",
+          "name": "radial secondary to accent"
+        }
+      ],
+      "palette": [
+        {
+          "name": "Secondary",
+          "slug": "secondary",
+          "color": "#00458a"
+        },
+        {
+          "name": "Secondary / Two",
+          "slug": "secondary-2",
+          "color": "#036"
+        },
+        {
+          "name": "Secondary Text ",
+          "slug": "secondary-text",
+          "color": "#FDFDFD"
+        },
+        {
+          "name": "Background",
+          "slug": "background",
+          "color": "#f8f8f8"
+        },
+        {
+          "name": "Background/ Two",
+          "slug": "background-2",
+          "color": "#ffffff"
+        },
+        {
+          "name": "Text",
+          "slug": "cm-text",
+          "color": "#757272"
+        },
+        {
+          "name": "Text /Two",
+          "slug": "text-2",
+          "color": "#202020"
+        },
+        {
+          "name": "Accent",
+          "slug": "accent",
+          "color": "#00458a"
+        },
+        {
+          "name": "Accent Text",
+          "slug": "accent-text",
+          "color": "#fefefe"
+        },
+        {
+          "name": "Border",
+          "slug": "cm-border",
+          "color": "#F2F2F2"
+        },
+        {
+          "name": "Transparent",
+          "color": "transparent",
+          "slug": "transparent"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--roboto)"
+    }
+  }
+}

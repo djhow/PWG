@@ -1,0 +1,35 @@
+[30-Oct-2024 18:32:06 UTC] Golf Club Rewrite Rules: Array
+(
+    [slug] => golfclub
+    [with_front] => 1
+    [pages] => 1
+    [feeds] => 1
+    [ep_mask] => 1
+)
+
+[30-Oct-2024 18:32:06 UTC] Golf Club Rewrite Rules: Array
+(
+    [slug] => golfclub
+    [with_front] => 1
+    [pages] => 1
+    [feeds] => 1
+    [ep_mask] => 1
+)
+
+[30-Oct-2024 18:32:07 UTC] Golf Club URL: http://127.0.0.1/golf/golfclub/baberton/
+[30-Oct-2024 18:32:07 UTC] Golf Club ID: 8
+[30-Oct-2024 18:32:07 UTC] Golf Club Post Type: golfclub
+[30-Oct-2024 18:32:10 UTC] Automatic updates starting...
+[30-Oct-2024 18:32:11 UTC] Automatic updates complete.
+[30-Oct-2024 18:32:23 UTC] Golf Club Rewrite Rules: Array
+(
+    [slug] => golfclub
+    [with_front] => 1
+    [pages] => 1
+    [feeds] => 1
+    [ep_mask] => 1
+)
+
+[30-Oct-2024 18:32:23 UTC] Golf Club URL: http://127.0.0.1/golf/golfclub/baberton/
+[30-Oct-2024 18:32:23 UTC] Golf Club ID: 8
+[30-Oct-2024 18:32:23 UTC] Golf Club Post Type: golfclub

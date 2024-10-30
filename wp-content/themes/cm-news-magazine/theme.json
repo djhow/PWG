@@ -1,0 +1,158 @@
+{
+	"settings": {
+		"color": {
+			"gradients": [
+				{
+					"gradient": "radial-gradient(rgb(0, 69, 138) 0%,rgb(0, 51, 102) 47%)",
+					"name": "radial secondary to accent",
+					"slug": "gradient-1"
+				}
+			],
+			"palette": [
+				{
+					"color": "#00458a",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#036",
+					"name": "Secondary / Two",
+					"slug": "secondary-2"
+				},
+				{
+					"color": "#FDFDFD",
+					"name": "Secondary Text ",
+					"slug": "secondary-text"
+				},
+				{
+					"color": "#f8f8f8",
+					"name": "Background",
+					"slug": "background"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Background/ Two",
+					"slug": "background-2"
+				},
+				{
+					"color": "#757272",
+					"name": "Text",
+					"slug": "cm-text"
+				},
+				{
+					"color": "#202020",
+					"name": "Text /Two",
+					"slug": "text-2"
+				},
+				{
+					"color": "#00458a",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#fefefe",
+					"name": "Accent Text",
+					"slug": "accent-text"
+				},
+				{
+					"color": "#F2F2F2",
+					"name": "Border",
+					"slug": "cm-border"
+				},
+				{
+					"color": "transparent",
+					"name": "Transparent",
+					"slug": "transparent"
+				}
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Jost",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/92zPtBhPNqw79Ij1E865zBUv7mz9JQVDPokMmuHL.woff2"
+							]
+						},
+						{
+							"fontFamily": "Jost",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/92zPtBhPNqw79Ij1E865zBUv7myjJQVDPokMmuHL.woff2"
+							]
+						},
+						{
+							"fontFamily": "Jost",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/92zPtBhPNqw79Ij1E865zBUv7mx9IgVDPokMmuHL.woff2"
+							]
+						},
+						{
+							"fontFamily": "Jost",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/92zPtBhPNqw79Ij1E865zBUv7mxEIgVDPokMmuHL.woff2"
+							]
+						},
+						{
+							"fontFamily": "Jost",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNIgun_HLMEo.woff2"
+							]
+						},
+						{
+							"fontFamily": "Jost",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNIgun_HLMEo.woff2"
+							]
+						}
+					],
+					"fontFamily": "Jost, sans-serif",
+					"name": "Jost",
+					"slug": "jost"
+				}
+			]
+		}
+	},
+	"styles": {
+		"elements": {
+			"button": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--jost)"
+				}
+			},
+			"caption": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--jost)"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--jost)"
+				}
+			},
+			"link": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--jost)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--jost)"
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json"
+}
